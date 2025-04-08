@@ -29,5 +29,5 @@ MyTokenTransfer is a decentralized web application (DApp) built on the Ethereum 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mytokentransfer.git
+git clone https://github.com/dideesh92/My-Token-Transfer-App
 cd mytokentransfer
