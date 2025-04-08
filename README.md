@@ -1,27 +1,33 @@
-🚀 MyTokenTransfer – Decentralized Token Transfer App
-MyTokenTransfer is a simple and intuitive decentralized application (DApp) built on the Ethereum blockchain that allows users to seamlessly transfer ERC-20 tokens between wallets.
+# 💸 MyTokenTransfer
 
-Users can connect their MetaMask wallet, specify a recipient address, enter the amount of tokens to transfer, and execute transactions directly from the browser. The application uses Ethers.js to interact with a deployed smart contract, providing a smooth Web3 experience.
+MyTokenTransfer is a decentralized web application (DApp) built on the Ethereum blockchain that enables users to transfer ERC-20 tokens from their wallet to another address. It integrates MetaMask for wallet connection and uses `ethers.js` to communicate with a deployed smart contract.
 
-🔧 Core Features
-🔐 Connect MetaMask securely via window.ethereum
+---
 
-💸 Transfer ERC-20 tokens to any wallet address
+## ✨ Features
 
-📦 Interact with smart contracts using ethers.js
+- 🔐 Connect and authenticate with MetaMask
+- 💸 Transfer ERC-20 tokens securely
+- 🔗 Interact with smart contracts using Ethers.js
+- ⚡ Real-time transaction signing and broadcasting
+- 🌐 Built with React and fully responsive UI
 
-⚡ Live transaction signing and broadcasting on the Ethereum network
+---
 
-🧾 Built with React for a responsive frontend
+## 🛠 Tech Stack
 
-🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS (optional)
+- **Frontend:** React.js, Tailwind CSS (optional)
+- **Smart Contract:** Solidity (ERC-20)
+- **Blockchain:** Ethereum / Sepolia Testnet (or any EVM chain)
+- **Web3 Integration:** Ethers.js
+- **Wallet:** MetaMask
 
-Blockchain: Ethereum (any EVM chain)
+---
 
-Smart Contracts: Solidity (ERC-20)
+## 🚀 Getting Started
 
-Web3 Library: Ethers.js
+### 1. Clone the Repository
 
-Wallet Integration: MetaMask
-
+```bash
+git clone https://github.com/your-username/mytokentransfer.git
+cd mytokentransfer
